@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aaron
 
-- 👨‍💻 I'm currently a Senior Fullstack Developer at [Orbtronics Limited](https://www.orbtronics.co/)
+- 👨‍💻 I'm currently a Senior Fullstack Developer at [Uptech Incorporated Limited](https://uptechincorp.com/)
 - I implemented and managed CI/CD pipelines, wrote detailed documentation for easy collaboration, and automated testing to ensure code quality. I also collaborated closely with UI designers on multiple projects and possess skills in coding, testing, troubleshooting, VPS migration, and even participated in the recruitment process by conducting interviews for junior software engineers and serving as a technical interviewer for new developers.
 - 🔭 Ask me about React.JS, Next.JS, MongoDB, Tailwind-CSS, MERN stack, Node.JS and many other Javascript/Typescript related content
 
