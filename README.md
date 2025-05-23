@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 I’m currently working on Ourlime Communities Network.<br>🤖 I’m looking to collaborate on AI projects.<br>🧠 I’m seeking help with AI.<br>💻 I’m currently learning Golang & HTMX.<br>🌟 Ask me about the MERN stack.<br>🥚 Fun fact: I love eggs!
+🌐 I’m currently working on a live streamin platform.<br>🤖 I’m looking to collaborate on AI projects.<br>🧠 I’m seeking help with AI.<br>💻 I’m currently learning Golang & HTMX.<br>🌟 Ask me about the MERN stack.<br>🥚 Fun fact: I love eggs!
 
 
 ## 🌐 Socials:
